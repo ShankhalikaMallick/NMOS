@@ -2,8 +2,7 @@
 NMOS characteristics (gm, rout, gmb) || CADENCE GPDK 180nm
 
 circuit diagram and outputs attached
-W= 2um, L=180nm
-set VDS=0.9V, VGS=0.9V, VBS=0V
+W= 2um, L=180nm and set VDS=0.9V, VGS=0.9V, VBS=0V
 
 PLOT 1: ID VGS PLOT (gm value) 
 DC ANALYSIS:
